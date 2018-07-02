@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Price renders without crashing 1`] = `
+<span>
+  -
+</span>
+`;
+
+exports[`Price shows the decimal value 1`] = `
+<span>
+  9.00
+</span>
+`;
+
+exports[`Price shows the fractional value 1`] = `
+<span>
+  8/1
+</span>
+`;

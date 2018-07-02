@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Event displays teams and start time correctly 1`] = `
+<div
+  className="o-grid"
+>
+  <div
+    className="o-grid__cell o-grid__cell--width-15 u-text--quiet"
+  >
+    12:35
+  </div>
+  <div
+    className="o-grid__cell"
+  >
+    <span
+      className="u-text--loud"
+    >
+      Team A
+    </span>
+    <span
+      className="u-text--quiet u-pillar-box-small"
+    >
+      v
+    </span>
+    <span
+      className="u-text--loud"
+    >
+      Team B
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Event renders without crashing 1`] = `""`;
